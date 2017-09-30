@@ -1,3 +1,6 @@
+# MAiZE
+Maze Generation and RPG
+==========
 Is it because I speak Spanish, and I'm making a pun about corn mazes, or
 because I don't speak Spanish, and I'm misprounincing, "maize?"
 
